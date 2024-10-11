@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm Vida, a passionate Software Engineer with a diverse ba
 - **Other:** Figma, Prisma, RESTful APIs, JWT, Redux
 
 ## 🚀 Projects
-### [Snowflake - Snowflake CLI]
+### [Snowflake - Snowflake CLI](https://www.snowflake.com/en/data-cloud/overview/streamlit-in-snowflake/)
 - Contributed to Snowflake CLI team to add `snow execute streamlit <app-name>` command in headless mode.
 - Added two optional parameters `comment` and `imports` to Streamlit app creation.
 - Added unit tests using pytest and integration tests.
