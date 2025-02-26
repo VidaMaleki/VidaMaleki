@@ -4,14 +4,43 @@
 
 Welcome to my GitHub! I'm Vida, a passionate Software Engineer with a diverse background in software development, accounting, and sales. I thrive on solving complex problems and turning ideas into reality through code.
 
-## 🔧 Technologies & Skills
+## 💼 Experiences
 
-- **Languages:** Python, JavaScript, TypeScript, C++
-- **Frameworks & Tools:** React.js, Next.js, Nest.js, Tailwind CSS, Webpack, Fluent UI
-- **Databases:** PostgreSQL, MongoDB
-- **Cloud & DevOps:** Azure, AWS (S3), Git
-- **Testing:** Jest, Cypress, Accessibility Insight, Narrator
-- **Other:** Figma, Prisma, RESTful APIs, JWT, Redux
+- **Snowflake** - Software Engineer Intern (Aug 2024 - Jan 2025)
+  - Developed a Configurable Columns Feature: Designed and implemented a customizable data grid for Notebook and Streamlit views, enabling users to select and persist visible columns across sessions. Added new columns such as Location (database/schema) and Environment (runtime type).
+  - Enhanced Backend Functionality: Modified the Notebook DTO to include runtime details, created new test cases, and updated existing tests for robust validation.
+  - Frontend Development: Built reusable React components using TypeScript to manage column configurations, improving scalability and user experience.
+  - Streamlit CLI Enhancements: Created the snow streamlit execute command for headless app deployment and enhanced the create streamlit command with optional properties like comments and imports.
+  - Streamlit Loading Sequence Improvements: Migrated loading steps from app panes to Snowsight's BottomBar, improving user visibility, localization, and telemetry tracking.
+  - Testing and Quality Assurance: Conducted extensive unit tests, Python regression tests, and Snowfort tests to ensure feature reliability and adherence to project standards.
+  - Collaboration and Innovation: Worked closely with cross-functional teams, including design, product management, and engineering, to deliver user-centric solutions aligned with organizational goals.
+  - **Skills:** Java · TypeScript · Python (Programming Language) · React.js · Jest · pytest · Regression Testing · Unit Testing · Storybook testing · Localization · Spring Boot
+- **CashZar** - Frontend Engineer Freelancer (Jan 2024 - Feb 2024)
+  - Developed the CashZar website based on Figma designs and project requirements, translating design concepts into a fully functional static web application.
+  - Worked closely with the design and management teams to ensure the final product accurately represented the intended user experience and business objectives.
+  - Deployed the website on AWS S3, focusing on optimal performance and user accessibility.
+  Integrated custom Google Forms for user feedback and inquiries, streamlining communication and data collection processes.
+  - Applied best practices in web development to create a responsive, user-friendly interface that aligns with modern web standards.
+  - Showcased expertise in front-end development, deployment strategies, and collaborative project execution within a fintech framework.
+  - **Skills:** React.js · Front-End Development · TypeScript · Amazon S3 · Responsive Web Design
+- **RentBase** - Full-stack Software Engineer Intern 
+  - Conducted comprehensive testing and automation with Jest and Cypress. 
+  - Designed MongoDB schemas and created efficient API services.
+  - Created a public listing with shared listing and shared agent info.
+  - Streamlined codebase with over 72 file refactorings and introduced currency/date formatting. 
+  - Improved UI efficiency by transitioning to Tailwind CSS.
+  - **Skills:** Node.js · TypeScript · Redux.js · MongoDB · React.js · SASS · Tailwind CSS · NestJS
+- **Microsoft** - Software Engineer Intern 
+  - Worked as a sole developer on projects, tasks, and bugs related to the Office section of the Edge browser sidebar at Microsoft that reached 172k DAU.
+  - Experienced in creating reusable web components
+  - Utilized Typescript, CSS, HTML, Webpack, Fiddler, Fluent UI, and Fast design elements to deliver high-quality projects.
+  - Focused on accessibility and tested using Accessibility Insights and screen readers like Narrator to ensure a seamless experience for all users.
+  - Adapted quickly and contributed to the team's limited experience in Chromium using C++ for localizing strings and creating feature flags for multiple phases of the project.
+  - Created a histogram to track user engagement in the Office hovercard and developed unit tests to ensure its functionality.
+  - Worked on the manifest in JSON files and made changes to the search section to collaborate and unblock across teams for creating the shared header project.
+  - Demonstrated the ability to work independently, collaborate effectively, and deliver quality work in a timely manner.
+  Worked with Azure cloud, making PRs , Code review, creating tasks and bugs, Cherry pick and publishing changes
+  - **Skills:** Webpack · Fluent ui · HTML · Software Deployment · JavaScript Frameworks · Fiddler · Coding Standards · Fast design · TypeScript · HTML5 · Cascading Style Sheets (CSS) · Figma · C++
 
 ## 🚀 Projects
 ### [Snowflake - Snowflake CLI](https://www.snowflake.com/en/data-cloud/overview/streamlit-in-snowflake/)
@@ -43,20 +72,7 @@ A sleek, user-friendly website built for CashZar.
 - Deployed on AWS S3 for high availability and scalability.
 - **Tech Stack:** React.js, TypeScript, AWS S3.
 
-## 💼 Experience
-
-- **Snowflake** - Software Engineer Intern (Current) <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Snowflake_Logo.svg/1200px-Snowflake_Logo.svg.png" alt="Snowflake" width="100"/>
-  - Working on innovative projects that push the boundaries of data cloud technology using Snowflake's Lego framework.
-- **CashZar** - Frontend Engineer Freelancer <img src="your_logo_url_here" alt="CashZar" width="100"/>
-  - Delivered a polished and responsive website under tight deadlines.
-- **RentBase** - Full-stack Software Engineer Intern <img src="your_logo_url_here" alt="RentBase" width="100"/>
-  - Led frontend and backend development efforts, improving UI efficiency and automating testing processes.
-- **Microsoft** - Software Engineer Intern  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1200px-Microsoft_logo.svg.png" alt="Microsoft" width="15"/>
-  - Enhanced the Office experience within the Edge browser, focusing on user engagement and accessibility.
-  - Developed features used by over 172,000 daily active users.
-
 ## 🎓 Education
-
 
 - **Ada Developers Academy** - Full Stack Web Development & AI Training
 - **Azad University of Tabriz** - Bachelor in Accounting
@@ -65,4 +81,8 @@ A sleek, user-friendly website built for CashZar.
 
 - **LinkedIn:** [Vida Ghorbannezhad Maleki](https://www.linkedin.com/in/vida-ghorbannezhad-maleki-4082a4197/)
 - **GitHub:** [@VidaMaleki](https://github.com/VidaMaleki)
+
+- 
+
+
 
