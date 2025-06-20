@@ -22,7 +22,7 @@ I love building scalable web applications, solving complex problems, and creatin
 - **Microsoft** - Software Engineer Intern  
   Edge Browser Sidebar | TypeScript | Webpack | Accessibility | Fluent UI
 
-> 🔗 [See full experience details]([https://github.com/VidaMaleki](https://www.linkedin.com/in/vida-ghorbannezhad-maleki-4082a4197/))
+> 🔗 [See full experience details](https://www.linkedin.com/in/vida-ghorbannezhad-maleki-4082a4197/))
 
 ---
 
